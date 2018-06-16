@@ -41,7 +41,7 @@ RUN del C:\SoftwareAG912\IntegrationServer\instances\default\config\security\key
 RUN C:\SoftwareAG912\IntegrationServer\instances\is_instance.bat updateDockerConfigFiles -Dinstance.name=default
 #RUN C:\SoftwareAG912\IntegrationServer\instances\is_instance.bat create-osgi-profile -Dinstance.name=default
 
-CMD C:\SoftwareAG912\IntegrationServer\instances\default\bin\startup.bat
+#CMD C:\SoftwareAG912\IntegrationServer\instances\default\bin\startup.bat
 
 EXPOSE 5555
 EXPOSE 9999
