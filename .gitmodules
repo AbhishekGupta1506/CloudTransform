@@ -1,0 +1,6 @@
+[submodule "IS_Assets"]
+	path = IS_Assets
+	url = https://github.com/AbhishekGupta1506/IS_Assets.git
+[submodule "IS_Demo"]
+	path = IS_Demo
+	url = https://github.com/AbhishekGupta1506/IS_Demo.git
